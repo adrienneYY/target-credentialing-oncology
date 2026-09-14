@@ -1,9 +1,6 @@
-Good targets fail in the wrong patients. This project uses functional and patient genomic evidence to ask: which patients carry the dependency?
-
 # Target Credentialing: Wnt Pathway & ERG/AR in Cancer
 
-A demonstration of target credentialing methodology integrating functional genomic and patient
-genomic evidence to evaluate oncology target hypotheses using public data.
+Good targets fail in the wrong patients. This project uses functional and patient genomics to ask: which patients actually carry the dependency? A demonstration of target credentialing methodology, using public data.
 
 ## Summary
 
