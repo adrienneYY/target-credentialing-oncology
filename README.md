@@ -97,10 +97,10 @@ See the notebook for the exact gene lists and any additional download parameters
 ## Limitations
 
 Full detail is in the notebook's Discussion section. Several cancer-type prevalence estimates
-rest on modest sample sizes. TCGA and MSK-IMPACT trade depth of curation against real-world scale
-differently. ERG-fusion classification relies on TCGA's curated subtype field rather than raw
-structural variant calls. Wnt-activating mutation definitions rely on precomputed classifications
-in DepMap versus direct variant-level verification in MSK-IMPACT — these calls are conceptually
+are from modest sample sizes. TCGA and MSK-IMPACT trade depth of curation against real-world scale
+differently. ERG-fusion classification is from the TCGA curated subtype field rather than raw
+structural variant calls. Wnt-activating mutation definition is assessed via precomputed classifications
+in DepMap versus direct variant-level verification in MSK-IMPACT. These calls are conceptually
 equivalent but not methodologically identical. The ERG/AR analysis is limited to patient genomics,
 since no usable public functional dependency data exists for TMPRSS2-ERG fusion status.
 
